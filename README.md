@@ -1,6 +1,7 @@
 # 2021-Nervos-Broaden-the-Spectrum-task0
 
 Task0: Setup a Local CKB Node and CKB Indexer for the Testnet
+
 Submitter: Soptq
 
 ## Set up a ckb node for testnet
